@@ -8,8 +8,8 @@ AB=true
 AONLY=true
 MOUNTED=false
 NOVNDK=false
-CLEAN=false
-DYNAMIC=false
+CLEAN=true
+DYNAMIC=true
 LOCK="$PROJECT_DIR/cache/.lock"
 DL="${PROJECT_DIR}/scripts/downloaders/dl.sh"
 
